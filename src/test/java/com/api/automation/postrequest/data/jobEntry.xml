@@ -1,0 +1,20 @@
+<item>
+	<jobId>20</jobId>
+	<jobTitle>SoftwareEngg</jobTitle>
+	<jobDescription>Todevelopandriodapplication</jobDescription>
+	<experience>
+		<experience>Google</experience>
+		<experience>Apple</experience>
+		<experience>MobileIron</experience>
+	</experience>
+	<project>
+		<project>
+			<projectName>MovieApp</projectName>
+			<technology>
+				<technology>Kotlin</technology>
+				<technology>SQLLite</technology>
+				<technology>Gradle</technology>
+			</technology>
+		</project>
+	</project>
+</item>
